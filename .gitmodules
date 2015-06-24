@@ -1,0 +1,3 @@
+[submodule "lib/NWS-CAP-parser"]
+	path = lib/NWS-CAP-parser
+	url = https://github.com/morrissimo/NWS-CAP-parser.git
